@@ -10,4 +10,9 @@ public class Greetings {
 	public String getGreetings() {
 		return "Hello world";
 	}
+	
+	public String sonarTest() {
+		String name=null;
+		return name.toString();
+	}
 }
